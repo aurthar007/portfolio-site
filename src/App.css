@@ -424,3 +424,15 @@ footer {
 .skill-text {
   font-size: 1rem;
 }
+
+.summary-section {
+  background: linear-gradient(135deg, #1f1c2c, #928dab);
+}
+
+.card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
